@@ -1,0 +1,1 @@
+worker: python copier.py
